@@ -5,3 +5,4 @@ zaijian
 diwuhang
 diliuhang
 creating a new branch is simple & quick
+creating a new branch is simple and quick
