@@ -8,3 +8,4 @@ creating a new branch is simple & quick
 creating a new branch is simple and quick
 this is a test
 merge test
+stash test3
