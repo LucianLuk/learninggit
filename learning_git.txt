@@ -9,3 +9,4 @@ creating a new branch is simple and quick
 this is a test
 merge test
 stash test3
+this is a test and it is wednesday today
