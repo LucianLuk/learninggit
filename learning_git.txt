@@ -11,3 +11,4 @@ merge test
 stash test3
 111111111111111111111111111
 it is sep 9 today
+it is Wednesday today
